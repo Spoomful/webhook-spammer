@@ -1,0 +1,28 @@
+{
+    "username": "Username",
+    "avatar_url": "https://avatars.githubusercontent.com/u/69325284?s=460&u=5d2a900d055e9bc93cd5aa04d264943118cdad50&v=4",
+    "content": "Message",
+    "embeds": [
+      {
+        "author": {
+          "name": "Name",
+          "icon_url": "https://cdn.discordapp.com/avatars/807437623593271327/df91181b3f1cf0ef1592fbe18e0962d7.png?size=128"
+        },
+        "title": "Spoomful/webhook-spammer",
+        "url": "https://github.com/Spoomful/webhook-spammer",
+        "description": "Description",
+        "color": 14049890,
+        "fields": [
+          {
+            "name": "Text",
+            "value": "More text",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": ":)",
+          "icon_url": "https://cdn.discordapp.com/avatars/807437623593271327/df91181b3f1cf0ef1592fbe18e0962d7.png?size=128"
+        }
+      }
+    ]
+  }
