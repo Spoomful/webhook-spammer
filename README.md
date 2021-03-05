@@ -1,2 +1,2 @@
 # ok
-python spammer -w webhook -d delay -t threads
+python spammer.py -w webhook -d delay -t threads
